@@ -30,8 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough demo of implemented user stories:
 
-<img src='https://imgur.com/gallery/bLch7qx' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<a href='https://imgur.com/gallery/bLch7qx'> DEMO </a>
 ## Notes
 
 Challenges I encountered while building the app.
