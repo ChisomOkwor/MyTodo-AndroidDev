@@ -35,7 +35,7 @@ Here's a walkthrough demo:
 ## Notes: 
 Challenges I encountered while building the app.
 
-Used a different version of Android Studio, so the tutorials were not exact 
+Used a different version of Android Studio, so, the tutorials were not exact.
 
 ## License
 
